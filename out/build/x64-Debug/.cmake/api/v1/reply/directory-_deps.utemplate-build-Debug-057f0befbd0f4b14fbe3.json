@@ -1,0 +1,92 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"Ubpa_Export"
+		],
+		"files" : 
+		[
+			"_deps/UCMake-0.4.1/cmake/UbpaPackage.cmake",
+			"_deps/UTemplate-0.3.1/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 153,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 177,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 190,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "UTemplate_0_3_1/cmake",
+			"exportName" : "UTemplateTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "UTemplate_core::@ad0e64b93cd31787c7f1",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/utemplate-build/CMakeFiles/Export/UTemplate_0_3_1/cmake/UTemplateTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "UTemplate_0_3_1/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/utemplate-build/UTemplateConfig.cmake",
+				"out/build/x64-Debug/_deps/utemplate-build/UTemplateConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "UTemplate_0_3_1",
+			"paths" : 
+			[
+				"_deps/UTemplate-0.3.1/include"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/utemplate-build",
+		"source" : "_deps/UTemplate-0.3.1"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/utemplate-build/src/test/02_List/02_TemplateList",
+		"source" : "_deps/UTemplate-0.3.1/src/test/02_List/02_TemplateList"
+	}
+}

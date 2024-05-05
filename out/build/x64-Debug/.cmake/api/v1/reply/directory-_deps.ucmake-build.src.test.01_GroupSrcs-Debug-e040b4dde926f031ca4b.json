@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/ucmake-build/src/test/01_GroupSrcs",
+		"source" : "_deps/UCMake-0.4.1/src/test/01_GroupSrcs"
+	}
+}

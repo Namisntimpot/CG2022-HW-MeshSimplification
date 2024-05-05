@@ -1,0 +1,3 @@
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate.dir
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/edit_cache.dir
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/rebuild_cache.dir

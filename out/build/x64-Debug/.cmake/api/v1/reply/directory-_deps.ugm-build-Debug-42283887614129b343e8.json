@@ -1,0 +1,116 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"Ubpa_AddNatvis",
+			"Ubpa_Export"
+		],
+		"files" : 
+		[
+			"_deps/UCMake-0.4.1/cmake/UbpaBuild.cmake",
+			"_deps/UGM-0.4.1/CMakeLists.txt",
+			"_deps/UCMake-0.4.1/cmake/UbpaPackage.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 74,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 153,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 177,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 190,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "UGM_0_4_1/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/ugm-build/UGM_0_4_1.natvis"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "UGM_0_4_1/cmake",
+			"exportName" : "UGMTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "UGM_core::@5d7026062a5e96650437",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/ugm-build/CMakeFiles/Export/UGM_0_4_1/cmake/UGMTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "UGM_0_4_1/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/ugm-build/UGMConfig.cmake",
+				"out/build/x64-Debug/_deps/ugm-build/UGMConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "UGM_0_4_1",
+			"paths" : 
+			[
+				"_deps/UGM-0.4.1/include"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/ugm-build",
+		"source" : "_deps/UGM-0.4.1"
+	}
+}

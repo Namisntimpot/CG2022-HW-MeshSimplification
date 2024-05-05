@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"Ubpa_AddTarget_GDR"
+		],
+		"files" : 
+		[
+			"_deps/UCMake-0.4.1/cmake/UbpaBuild.cmake",
+			"_deps/UGL-0.1.3/src/core/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 330,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "UGL_0_1_3/lib",
+			"paths" : 
+			[
+				"C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/_deps/UGL-0.1.3/lib/UGL_cored.lib"
+			],
+			"targetId" : "UGL_core::@d02dad2eab8dbff22c2e",
+			"targetIndex" : 3,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/ugl-build/src/core",
+		"source" : "_deps/UGL-0.1.3/src/core"
+	}
+}

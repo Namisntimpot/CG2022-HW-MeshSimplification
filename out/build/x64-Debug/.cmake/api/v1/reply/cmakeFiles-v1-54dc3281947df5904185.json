@@ -1,0 +1,603 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.23.22060601-MSVC_2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.23.22060601-MSVC_2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.23.22060601-MSVC_2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.23.22060601-MSVC_2/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"path" : "GLFW/lib/cmake/glfw3/glfw3ConfigVersion.cmake"
+		},
+		{
+			"path" : "GLFW/lib/cmake/glfw3/glfw3Config.cmake"
+		},
+		{
+			"path" : "GLFW/lib/cmake/glfw3/glfw3Targets.cmake"
+		},
+		{
+			"path" : "GLFW/lib/cmake/glfw3/glfw3Targets-relwithdebinfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/cmake/UbpaTool.cmake"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/cmake/UbpaGit.cmake"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/cmake/UbpaBuild.cmake"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/cmake/UbpaQt.cmake"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/cmake/UbpaBasic.cmake"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/cmake/UbpaPackage.cmake"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/cmake/UbpaDownload.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/config/Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/head_files/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/00_Basic/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/01_GroupSrcs/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/02_lib/GenLib/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/02_lib/UseLib/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/03_dll/GenDll/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/config/Ubpa_config_dll.in"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/03_dll/UseDll/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/04_Qt/00_hello/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UCMake-0.4.1/src/test/05_data/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FindPython.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/config/Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/config/natvis.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/config/Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/config/Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/EMPTY/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/core/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/00_Name/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/01_Num/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/02_List/01_TypeList/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/02_List/02_TemplateList/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/02_List/03_Sort/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/03_SI/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/04_EBCO/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/05_SI_CRTP/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/06_TypeID/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/07_Func/00_FuncTraits/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/07_Func/01_FuncExpand/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/08_Basic/00_ProtectedConstrctor/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UTemplate-0.3.1/src/test/09_Concept/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/EMPTY/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/core/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/00_val/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/01_vec/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/02_point/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/03_mat/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/04_rgb_scale/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/05_quat/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/06_transform/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/07_bbox/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/08_line/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGM-0.4.1/src/test/09_ray/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/config/Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/include/_deps/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/EMPTY/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/core/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/00_ptr/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/01_shared_ptr/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/02_direct/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/03_robustness/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/04_multi_lambda/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/05_MultiVisitor/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/06_no_definition/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/07_performance/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/08_void_ptr/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/09_const/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/00_Visitor/10_inf/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/00_basic/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/01_ptr_const/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/02_robustness/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/03_serialize/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/04_99/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/05_99plus/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/06_ReflTraits/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/07_void_ptr/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/01_Reflection/08_enum/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/02_vtable/00_basic/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/02_vtable/01_heapobj/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/03_Signal/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/04_dirty/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UDP-0.3.1/src/test/05_Read/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/include/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/data/textures/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/data/textures/skybox/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/EMPTY/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/_deps/glad/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/core/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/00_UB_Packer/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/1/1_hello/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/1/2_tri/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/1/3_shader/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/1/4_tex/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/1/6_cs/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/1/7_cam/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/4/5_fb/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/4/6_cm/CMakeLists.txt"
+		},
+		{
+			"path" : "_deps/UGL-0.1.3/src/test/LOGL/camera/CMakeLists.txt"
+		},
+		{
+			"path" : "src/_deps/eigen/CMakeLists.txt"
+		},
+		{
+			"path" : "src/app/CMakeLists.txt"
+		},
+		{
+			"path" : "src/tool/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug",
+		"source" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

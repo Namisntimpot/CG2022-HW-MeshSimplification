@@ -1,0 +1,14 @@
+# Target labels
+ ugm-populate
+# Source files and their labels
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/CMakeFiles/ugm-populate
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/CMakeFiles/ugm-populate.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/CMakeFiles/ugm-populate-complete.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-build.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-configure.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-download.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-install.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-mkdir.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-patch.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-test.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-update.rule

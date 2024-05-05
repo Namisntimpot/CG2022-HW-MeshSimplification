@@ -1,0 +1,21 @@
+# ninja log v5
+1	110	6885019282760807	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-mkdir	a73efd3011835590
+1	110	6885019282760807	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-mkdir	a73efd3011835590
+111	210	6885019283770807	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-download	44ed9214faab0706
+111	210	6885019283770807	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-download	44ed9214faab0706
+211	308	6885019284730801	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-update	20166be4880b7e7b
+211	308	6885019284730801	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-update	20166be4880b7e7b
+308	404	6885019285710767	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-patch	d5294e2493229da
+308	404	6885019285710767	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-patch	d5294e2493229da
+404	503	6885019286700982	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-configure	81c4644ebeea2cd2
+404	503	6885019286700982	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-configure	81c4644ebeea2cd2
+504	602	6885019287688820	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-build	8f07dec809a210d3
+504	602	6885019287688820	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-build	8f07dec809a210d3
+603	709	6885019288742633	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-install	18f919516c164c7e
+603	709	6885019288742633	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-install	18f919516c164c7e
+709	804	6885019289702623	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-test	e68578a90ccf8dca
+709	804	6885019289702623	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-test	e68578a90ccf8dca
+804	940	6885019291062648	CMakeFiles/ugl-populate-complete	7eec48bda48f7f71
+804	940	6885019291062648	ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-done	7eec48bda48f7f71
+804	940	6885019291062648	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/CMakeFiles/ugl-populate-complete	7eec48bda48f7f71
+804	940	6885019291062648	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugl-subbuild/ugl-populate-prefix/src/ugl-populate-stamp/ugl-populate-done	7eec48bda48f7f71

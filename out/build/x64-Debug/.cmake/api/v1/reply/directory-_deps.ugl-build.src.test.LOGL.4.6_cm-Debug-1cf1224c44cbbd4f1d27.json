@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/ugl-build/src/test/LOGL/4/6_cm",
+		"source" : "_deps/UGL-0.1.3/src/test/LOGL/4/6_cm"
+	}
+}

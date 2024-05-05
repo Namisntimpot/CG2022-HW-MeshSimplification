@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/CMakeFiles/ugm-populate"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/CMakeFiles/ugm-populate.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/CMakeFiles/ugm-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-build.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-download.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-install.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-test.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ugm-subbuild/ugm-populate-prefix/src/ugm-populate-stamp/ugm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ugm-populate"
+		],
+		"name" : "ugm-populate"
+	}
+}

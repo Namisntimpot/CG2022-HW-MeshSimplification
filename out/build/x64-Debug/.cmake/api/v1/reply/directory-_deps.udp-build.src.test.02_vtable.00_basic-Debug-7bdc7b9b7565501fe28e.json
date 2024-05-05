@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/udp-build/src/test/02_vtable/00_basic",
+		"source" : "_deps/UDP-0.3.1/src/test/02_vtable/00_basic"
+	}
+}

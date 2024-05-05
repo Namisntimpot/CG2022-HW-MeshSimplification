@@ -1,0 +1,21 @@
+# ninja log v5
+503	598	6885017875481473	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-build	a85f7eb35f3fc7e4
+1	110	6885017870608221	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-mkdir	4c6ebe9556c82e99
+1	110	6885017870608221	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-mkdir	4c6ebe9556c82e99
+788	921	6885017878701469	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate-complete	35c244d9e6441d45
+208	311	6885017872611846	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-update	3bb73214158b08a1
+311	407	6885017873571469	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-patch	1943bbca8a7947
+111	208	6885017871577161	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-download	384d630ce4bc859a
+111	208	6885017871577161	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-download	384d630ce4bc859a
+311	407	6885017873571469	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-patch	1943bbca8a7947
+208	311	6885017872611846	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-update	3bb73214158b08a1
+407	503	6885017874531473	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-configure	e4bbede716296c99
+407	503	6885017874531473	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-configure	e4bbede716296c99
+503	598	6885017875481473	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-build	a85f7eb35f3fc7e4
+694	788	6885017877371471	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-test	c82ad93b11be930d
+598	694	6885017876441479	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-install	b7825fe871ec9796
+598	694	6885017876441479	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-install	b7825fe871ec9796
+694	788	6885017877371471	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-test	c82ad93b11be930d
+788	921	6885017878701469	CMakeFiles/ucmake-populate-complete	35c244d9e6441d45
+788	921	6885017878701469	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-done	35c244d9e6441d45
+788	921	6885017878701469	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-done	35c244d9e6441d45

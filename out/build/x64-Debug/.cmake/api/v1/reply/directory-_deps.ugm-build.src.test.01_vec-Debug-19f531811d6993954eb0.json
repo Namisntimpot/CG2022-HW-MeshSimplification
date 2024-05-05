@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/ugm-build/src/test/01_vec",
+		"source" : "_deps/UGM-0.4.1/src/test/01_vec"
+	}
+}

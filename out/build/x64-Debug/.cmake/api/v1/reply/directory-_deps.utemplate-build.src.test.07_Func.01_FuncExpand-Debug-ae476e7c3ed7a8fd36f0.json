@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/utemplate-build/src/test/07_Func/01_FuncExpand",
+		"source" : "_deps/UTemplate-0.3.1/src/test/07_Func/01_FuncExpand"
+	}
+}

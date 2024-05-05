@@ -1,0 +1,21 @@
+# ninja log v5
+1	104	6885019380220505	udp-populate-prefix/src/udp-populate-stamp/udp-populate-mkdir	76bc048800977ac4
+1	104	6885019380220505	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-mkdir	76bc048800977ac4
+105	204	6885019381200503	udp-populate-prefix/src/udp-populate-stamp/udp-populate-download	4199ba28feb1160d
+105	204	6885019381200503	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-download	4199ba28feb1160d
+205	307	6885019382240520	udp-populate-prefix/src/udp-populate-stamp/udp-populate-update	5b500e5cba9b3460
+205	307	6885019382240520	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-update	5b500e5cba9b3460
+307	411	6885019383280516	udp-populate-prefix/src/udp-populate-stamp/udp-populate-patch	82b6b3a4576fb2e9
+307	411	6885019383280516	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-patch	82b6b3a4576fb2e9
+411	509	6885019384270501	udp-populate-prefix/src/udp-populate-stamp/udp-populate-configure	a1deb509f1b4e985
+411	509	6885019384270501	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-configure	a1deb509f1b4e985
+510	606	6885019385240665	udp-populate-prefix/src/udp-populate-stamp/udp-populate-build	909ba7abaf9090e
+510	606	6885019385240665	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-build	909ba7abaf9090e
+606	723	6885019386220527	udp-populate-prefix/src/udp-populate-stamp/udp-populate-install	3cbf9daef9d244e6
+606	723	6885019386220527	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-install	3cbf9daef9d244e6
+723	822	6885019387400499	udp-populate-prefix/src/udp-populate-stamp/udp-populate-test	a53fcba3f7830fc3
+723	822	6885019387400499	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-test	a53fcba3f7830fc3
+823	961	6885019388770700	CMakeFiles/udp-populate-complete	aab686fdd33cc45d
+823	961	6885019388770700	udp-populate-prefix/src/udp-populate-stamp/udp-populate-done	aab686fdd33cc45d
+823	961	6885019388770700	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate-complete	aab686fdd33cc45d
+823	961	6885019388770700	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-done	aab686fdd33cc45d

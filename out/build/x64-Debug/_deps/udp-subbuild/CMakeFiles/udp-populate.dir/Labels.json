@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-build.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-download.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-install.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-test.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"udp-populate"
+		],
+		"name" : "udp-populate"
+	}
+}

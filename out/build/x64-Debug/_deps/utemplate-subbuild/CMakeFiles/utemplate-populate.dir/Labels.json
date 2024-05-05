@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/CMakeFiles/utemplate-populate"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/CMakeFiles/utemplate-populate.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/CMakeFiles/utemplate-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-build.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-download.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-install.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-test.rule"
+		},
+		{
+			"file" : "C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"utemplate-populate"
+		],
+		"name" : "utemplate-populate"
+	}
+}

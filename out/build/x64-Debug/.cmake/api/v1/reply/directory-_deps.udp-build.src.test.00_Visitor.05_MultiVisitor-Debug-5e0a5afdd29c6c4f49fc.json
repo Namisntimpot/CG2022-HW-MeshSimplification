@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/udp-build/src/test/00_Visitor/05_MultiVisitor",
+		"source" : "_deps/UDP-0.3.1/src/test/00_Visitor/05_MultiVisitor"
+	}
+}

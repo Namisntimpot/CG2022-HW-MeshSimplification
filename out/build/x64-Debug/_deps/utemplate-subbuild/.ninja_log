@@ -1,0 +1,21 @@
+# ninja log v5
+0	108	6885019362071452	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-mkdir	1428108c15262006
+0	108	6885019362071452	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-mkdir	1428108c15262006
+109	213	6885019363128464	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-download	b192e88ae4835129
+109	213	6885019363128464	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-download	b192e88ae4835129
+213	312	6885019364118458	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-update	5f3b105617ed08c0
+213	312	6885019364118458	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-update	5f3b105617ed08c0
+313	434	6885019365174857	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-patch	a29b098b38754b0b
+313	434	6885019365174857	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-patch	a29b098b38754b0b
+434	560	6885019366339913	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-configure	541ab73b873bd120
+434	560	6885019366339913	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-configure	541ab73b873bd120
+560	659	6885019367589175	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-build	94ec02e97976b219
+560	659	6885019367589175	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-build	94ec02e97976b219
+660	761	6885019368589061	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-install	51f9b288c8d4fdbb
+660	761	6885019368589061	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-install	51f9b288c8d4fdbb
+761	861	6885019369609691	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-test	4ff8ec503921e330
+761	861	6885019369609691	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-test	4ff8ec503921e330
+862	999	6885019370979696	CMakeFiles/utemplate-populate-complete	ed1a8021f245a893
+862	999	6885019370979696	utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-done	ed1a8021f245a893
+862	999	6885019370979696	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/CMakeFiles/utemplate-populate-complete	ed1a8021f245a893
+862	999	6885019370979696	C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-done	ed1a8021f245a893

@@ -1,0 +1,14 @@
+# Target labels
+ udp-populate
+# Source files and their labels
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/CMakeFiles/udp-populate-complete.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-build.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-configure.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-download.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-install.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-mkdir.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-patch.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-test.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/udp-subbuild/udp-populate-prefix/src/udp-populate-stamp/udp-populate-update.rule

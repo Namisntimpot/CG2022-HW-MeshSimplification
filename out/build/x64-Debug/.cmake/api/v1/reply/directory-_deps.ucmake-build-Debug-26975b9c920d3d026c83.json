@@ -1,0 +1,68 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"Ubpa_Export"
+		],
+		"files" : 
+		[
+			"_deps/UCMake-0.4.1/cmake/UbpaPackage.cmake",
+			"_deps/UCMake-0.4.1/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 177,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 190,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "UCMake_0_4_1/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/ucmake-build/UCMakeConfig.cmake",
+				"out/build/x64-Debug/_deps/ucmake-build/UCMakeConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "UCMake_0_4_1",
+			"paths" : 
+			[
+				"_deps/UCMake-0.4.1/cmake"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/ucmake-build",
+		"source" : "_deps/UCMake-0.4.1"
+	}
+}

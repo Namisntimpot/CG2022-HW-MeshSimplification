@@ -1,0 +1,14 @@
+# Target labels
+ utemplate-populate
+# Source files and their labels
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/CMakeFiles/utemplate-populate
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/CMakeFiles/utemplate-populate.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/CMakeFiles/utemplate-populate-complete.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-build.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-configure.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-download.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-install.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-mkdir.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-patch.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-test.rule
+C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/out/build/x64-Debug/_deps/utemplate-subbuild/utemplate-populate-prefix/src/utemplate-populate-stamp/utemplate-populate-update.rule

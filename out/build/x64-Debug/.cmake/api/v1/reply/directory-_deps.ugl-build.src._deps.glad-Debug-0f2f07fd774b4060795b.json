@@ -1,0 +1,60 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"Ubpa_AddTarget_GDR",
+			"Ubpa_AddTarget"
+		],
+		"files" : 
+		[
+			"_deps/UCMake-0.4.1/cmake/UbpaBuild.cmake",
+			"_deps/UGL-0.1.3/src/_deps/glad/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 347,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 330,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "UGL_0_1_3/lib",
+			"paths" : 
+			[
+				"C:/Lijiaheng/RealTime_3D_Graphics/3_MeshSimplification/Project/_deps/UGL-0.1.3/lib/UGL__deps_gladd.lib"
+			],
+			"targetId" : "UGL__deps_glad::@c1be1beb6bde580ac248",
+			"targetIndex" : 2,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/ugl-build/src/_deps/glad",
+		"source" : "_deps/UGL-0.1.3/src/_deps/glad"
+	}
+}

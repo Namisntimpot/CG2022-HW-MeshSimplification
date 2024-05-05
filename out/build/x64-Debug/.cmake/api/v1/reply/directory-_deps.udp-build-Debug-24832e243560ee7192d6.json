@@ -1,0 +1,92 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"Ubpa_Export"
+		],
+		"files" : 
+		[
+			"_deps/UCMake-0.4.1/cmake/UbpaPackage.cmake",
+			"_deps/UDP-0.3.1/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 153,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 177,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 190,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "UDP_0_3_1/cmake",
+			"exportName" : "UDPTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "UDP_core::@25dab8f36ba9bb8ff711",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/udp-build/CMakeFiles/Export/UDP_0_3_1/cmake/UDPTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "UDP_0_3_1/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/udp-build/UDPConfig.cmake",
+				"out/build/x64-Debug/_deps/udp-build/UDPConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "UDP_0_3_1",
+			"paths" : 
+			[
+				"_deps/UDP-0.3.1/include"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/udp-build",
+		"source" : "_deps/UDP-0.3.1"
+	}
+}
