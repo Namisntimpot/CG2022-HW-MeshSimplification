@@ -21,7 +21,7 @@
   - tool/: 工具代码，包括三维模型加载、摄像机移动
 
 ***
-实现效果：  
+实现效果：./网格简化.mp4  
 (这之后还改了些bug，但没再录.)
 
 <video src="网格简化.mp4" controls="controls" width="500" height="300"></video>
